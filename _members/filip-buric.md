@@ -1,11 +1,10 @@
 ---
 name: Filip Buric
 image: images/Filip-Buric_170.jpg
-description: Computer hacker
 role: phd
-aliases:
-  - A. Chovie
-  - A Chovie
+# aliases:
+#   - A. Chovie
+#   - A Chovie
 links:
   email: fburic@chalmers.se
   github: fburic
