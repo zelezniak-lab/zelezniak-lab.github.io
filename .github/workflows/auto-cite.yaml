@@ -1,6 +1,11 @@
 name: Auto Cite
 
 on:
+  workflow_dispatch:
+    branches:
+      - main
+    paths:
+      - "_data/sources.yaml"
   push:
     branches:
       - main
