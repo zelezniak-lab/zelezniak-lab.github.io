@@ -33,7 +33,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   filters="role: postdoc"
 %}
 
-##Alumni
+## Alumni
 
 {%
   include list.html
