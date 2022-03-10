@@ -32,6 +32,9 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   component="portrait"
   filters="role: postdoc"
 %}
+
+##Alumni
+
 {%
   include list.html
   data="members"
