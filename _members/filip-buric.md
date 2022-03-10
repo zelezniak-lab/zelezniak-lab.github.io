@@ -2,7 +2,7 @@
 name: Filip Buric
 image: images/Filip-Buric_170.jpg
 description: Computer hacker
-role: PhD student
+role: phd
 aliases:
   - A. Chovie
   - A Chovie
