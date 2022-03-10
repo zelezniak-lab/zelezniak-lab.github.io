@@ -12,10 +12,10 @@ baseurl: ""
 links:
   email: aleksej.zelezniak@chalmers.se
   google-scholar: Aleksej Zelezniak
-  github: https://github.com/zelezniak-lab/
+  github: zelezniak-lab
   twitter: azelezniak
-  instagram: ""
-  youtube: ""
+#  instagram: ""
+#  youtube: ""
 
 ### advanced settings
 
