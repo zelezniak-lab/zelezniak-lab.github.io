@@ -18,6 +18,10 @@
   repo: Biomatter-Designs/ProteinGAN
   tags:
     - software
+    - protein engineering
+    - GAN
+    - generative afversarial network
+    - deep learning
     - publication
 
 - title: CANDIA
@@ -39,6 +43,7 @@
   description:  Repository contains scripts to reproduce the analysis and figures. The data is available at [Zenodo](https://doi.org/10.5281/zenodo.5112372), extract the archive to a folder named 'data'.
   repo: JanZrimec/Plastic_degrading_microbiome
   tags:
+    - plastics degrading enzymes
     - publication
     - resource
 
@@ -47,8 +52,10 @@
   group: more
   image: images/top50.jpg
   link: https://github.com/JanZrimec/DeepExpression
-  description: This repository contains scripts to reproduce the analysis and figures. The data is available at [Zenodo] (https://doi.org/10.5281/zenodo.3905252), extract the archive to a folder named 'data'.
+  description: This repository contains scripts to reproduce the analysis and figures. The data is available at [Zenodo](https://doi.org/10.5281/zenodo.3905252), extract the archive to a folder named 'data'.
   repo: JanZrimec/DeepExpression
   tags:
     - publication
+    - gene expression Prediction
+    - deep learning
     - resource
