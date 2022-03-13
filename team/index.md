@@ -56,16 +56,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
  
 {% include section.html %}
  
- ## Join
-# 
-# #### MSc students
-# 
-# We gace 
-# 
-# - 3+ (dog) years experience managing bone portfolios
-# - Strong desire to learn tricks and go on walkies
-# - Aptitude to sit and stay
-# 
+## Join
+ 
+We gace 
+ 
+ - 3+ (dog) years experience managing bone portfolios
+ - Strong desire to learn tricks and go on walkies
+ - Aptitude to sit and stay
+ 
 {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 {:.center}
 
@@ -100,6 +98,10 @@ Our work is made possible by generous funding from several organizations.
   image5="images/scilifelab.png"
   link5="https://www.scilifelab.se/"
   tooltip5="SciLifeLab"
+  
+  image6="images/scilifelab.png"
+  link6="https://mjjfondas.lt/en/main-page/"
+  tooltip6="Marius Jakulis Jason Foundation"
 
 %}
 
