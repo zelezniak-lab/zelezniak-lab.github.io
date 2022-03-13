@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+All of our tools, software and research results, etc. are open-source, we strive to make resources reproducible and high quality in: cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable.
 
 {% include search-info.html %}
 
