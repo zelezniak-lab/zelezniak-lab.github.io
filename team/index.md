@@ -7,12 +7,11 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are an interdisciplinary team working collaboratively on computational and experimental problems. We are highly engaged in collaborative work and believe in 1+1=5. We nurture an environment where team members are treated equally and respect and admire our differences. Our team includes postdocs, PhD students and students at all stages of their careers interested in the intersection of data science, AI and biology.
 
 {% include section.html %}
+
+## Current lab members
 
 {%
   include list.html
@@ -33,68 +32,76 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   filters="role: postdoc"
 %}
 
+
 ## Alumni
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: a_postdoc"
 %}
-{:.center}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: a_msc"
+%}
 
+{:.center}
 {% include section.html background="images/banner.jpg" dark=true%}
+# 
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# 
+# {% include section.html %}
+# 
+# ## Join
+# 
+# #### MSc students
+# 
+# We gace 
+# 
+# - 3+ (dog) years experience managing bone portfolios
+# - Strong desire to learn tricks and go on walkies
+# - Aptitude to sit and stay
+# 
+# {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+# {:.center}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Join
-
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- 3+ (dog) years experience managing bone portfolios
-- Strong desire to learn tricks and go on walkies
-- Aptitude to sit and stay
-
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-{:.center}
 
 {% include section.html %}
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by generous funding from several organizations.
 {:.center}
 
 {%
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/kaw.png"
+  link1="https://kaw.wallenberg.org/en"
+  tooltip1="Knut and Alice Wallenberg Foundation"
 
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  image2="images/vr.png"
+  link2="https://www.vr.se/"
+  tooltip2="Swedish Research council"
 
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  image3="images/formas.jpg"
+  link3="https://formas.se/"
+  tooltip3="Government research council for sustainable development"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
+  image4="images/ms_logo_cam.gif"
+  link4="https://www.microsoft.com/en-us/research/"
   tooltip4="Cool Foundation"
 
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
+  image5="images/scilifelab.png"
+  link5="https://www.scilifelab.se/"
+  tooltip5="SciLifeLab"
 
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
 %}
+
+
+
