@@ -1,6 +1,6 @@
 ---
 name: Francisco Zorrilla
-image: images/francicso.jpg
+image: images/franscisco.jpg
 role: a_msc
 # aliases:
 #   - A. Chovie
