@@ -9,4 +9,4 @@ links:
   email: clara.goldin@chalmers.se
 ---
 
-Clara is a wizard in protein expression and biochemical assays that that she uses to validate and improve AI-algorithms for protein engineering. ßß
+Clara is a wizard in protein expression and biochemical assays that that she uses to validate and improve AI-algorithms for protein engineering.
