@@ -1,6 +1,6 @@
 ---
 name: Hossein Abbasi
-image: images/hossein.png
+image: images/hossein.jpeg
 role: msc
 # aliases:
 #   - A. Chovie
