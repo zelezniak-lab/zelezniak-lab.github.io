@@ -44,6 +44,7 @@
 
 - title: Prediction of gene expression levels from DNA sequence
   subtitle: Scripts and models for Zrimec et. al. Nature Communications 2020
+  group: more
   image: images/top50.jpg
   link: https://github.com/JanZrimec/DeepExpression
   description: This repository contains scripts to reproduce the analysis and figures. The data is available at [Zenodo] (https://doi.org/10.5281/zenodo.3905252), extract the archive to a folder named 'data'.
