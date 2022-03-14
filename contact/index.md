@@ -33,7 +33,7 @@ We are part of the [Division of Systems and Synthetic Biology](https://www.sysbi
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://goo.gl/maps/FRqMNHeqVhEmP5RKA"s
+  link="https://goo.gl/maps/uL2KXCZ8nWppxbS8A"
   style="button"
 %}
 {:.center}
