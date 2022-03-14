@@ -105,7 +105,7 @@ Our work is made possible by generous funding from several organizations.
   link5="https://www.scilifelab.se/"
   tooltip5="SciLifeLab"
   
-  image6="images/scilifelab.png"
+  image6="images/mjj.png"
   link6="https://mjjfondas.lt/en/main-page/"
   tooltip6="Marius Jakulis Jason Foundation"
 
