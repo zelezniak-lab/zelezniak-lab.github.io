@@ -7,25 +7,24 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+We are part of the [Division of Systems and Synthetic Biology](https://www.sysbio.se) at the Department of Biology and Biological Engineering at Chalmers University of Technology, Gothenburg, Sweden. We have also a small satellite lab at Vilnius University Life Sciences Centre, Lithuania.    
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="aleksej.zelezniak@chalmers.se"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="aleksej.zelezniak@chalmers.se"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="+46 31 772 8171"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+46 (0)31-772 8171"
   style="button"
 %}
 {%
@@ -34,7 +33,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/The+Apple/@57.6904794,11.9759453,19.78z/data=!4m5!3m4!1s0x464ff3ac770e2455:0xaa166aee7a3544a!8m2!3d57.690391!4d11.9762074""
   style="button"
 %}
 {:.center}
@@ -43,23 +42,27 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Chalmers University of Technology
+Department of Biology and Biological Engineering
+Division of Systems and Synthetic Biology
+Kemivägen 10
+SE-412 96 Göteborg
+Sweden
+
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/contact-fysik.jpg"
+  caption="Physics Building Entrance"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/KlippanGbg_141011-4777-IBSweb_s4VJRh1.width-1650.jpg"
+  caption="Vibrant city of Gothenburg, photo credit: Per Pixel Petersson/imagebank.sweden.se"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
