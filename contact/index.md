@@ -42,11 +42,11 @@ We are part of the [Division of Systems and Synthetic Biology](https://www.sysbi
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Chalmers University of Technology
-Department of Biology and Biological Engineering
-Division of Systems and Synthetic Biology
-Kemivägen 10
-SE-412 96 Göteborg
+Chalmers University of Technology <br>
+Department of Biology and Biological Engineering <br>
+Division of Systems and Synthetic Biology <br>
+Kemivägen 10 <br>
+SE-412 96 Göteborg <br>
 Sweden
 
 {:.center}
