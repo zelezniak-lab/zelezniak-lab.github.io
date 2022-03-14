@@ -5,15 +5,15 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>News
 
-{% include section.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
-
-{% include section.html %}
+# {% include section.html %}
+# 
+# {% include search-info.html %}
+# 
+# {% include list.html data="posts" component="post-excerpt" %}
+# 
+# {% include section.html %}
 
 ## News
 
