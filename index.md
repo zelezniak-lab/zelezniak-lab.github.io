@@ -48,7 +48,7 @@ We are looking at fundamental biological and medical problems through the lens o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ds.png"
   link="research"
   title="Our Research"
   text=text
@@ -93,7 +93,7 @@ We are an interdisciplinary team working collaboratively on computational and ex
 
 {%
   include feature.html
-  image="images/ds.png"
+  image="images/group_2021.png"
   link="team"
   title="Our Team"
   text=text
