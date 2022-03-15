@@ -55,8 +55,8 @@ We are looking at fundamental biological and medical problems through the lens o
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Our motto is reproducible science, see our work and tools.
 
 {%
   include link.html
@@ -78,7 +78,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Our moto is reproducible science, see our work and tools.
+
+We are an interdisciplinary team working collaboratively on computational and experimental problems. We are highly engaged in collaborative work and believe in 1+1=5. 
 
 {%
   include link.html
@@ -92,13 +93,8 @@ Our moto is reproducible science, see our work and tools.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/ds.png"
   link="team"
   title="Our Team"
   text=text
 %}
-
-We are still a small lab, but we 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
