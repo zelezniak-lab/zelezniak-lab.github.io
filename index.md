@@ -70,7 +70,7 @@ Our motto is reproducible science, see our work and tools.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/source_code.jpg"
   link="resources"
   title="Our Tools"
   flip=true
