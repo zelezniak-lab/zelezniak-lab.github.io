@@ -15,7 +15,7 @@ title: Home
 # Highlights
 
 {% capture text %}
-We are looking at fundamental biological and medical problems through the lens of data science, machine learning and mathematical modelling. Gene and protein expression regulation, metabolism and protein engineering are what keep us out of bed in the morning.  
+We are looking at fundamental biological and medical problems through the lens of data science, machine learning and mathematical modelling. Gene and protein expression regulation, metabolism and protein engineering are what keep us out of bed in the morning.
 
 {%
   include link.html
