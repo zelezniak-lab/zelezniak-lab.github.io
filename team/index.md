@@ -70,7 +70,6 @@ We are an interdisciplinary team working collaboratively on computational and ex
 [//]: # - Strong desire to learn tricks and go on walkies
 [//]: #- Aptitude to sit and stay
  
-[//]: # {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
 [//]: # {:.center}
 
 
