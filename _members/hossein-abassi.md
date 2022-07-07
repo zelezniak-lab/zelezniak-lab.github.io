@@ -1,7 +1,7 @@
 ---
 name: Hossein Abbasi
 image: images/hossein.jpeg
-role: msc
+role: a_msc
 # aliases:
 #   - A. Chovie
 #   - A Chovie

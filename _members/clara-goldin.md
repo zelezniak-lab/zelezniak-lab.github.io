@@ -1,7 +1,7 @@
 ---
 name: Clara Goldin
 image: images/clara_goldin.jpg
-role: msc
+role: a_msc
 # aliases:
 #   - A. Chovie
 #   - A Chovie

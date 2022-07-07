@@ -1,7 +1,7 @@
 ---
 name: Filip Buric
 image: images/Filip-Buric_170.jpg
-role: phd
+role: a_phd
 # aliases:
 #   - A. Chovie
 #   - A Chovie
