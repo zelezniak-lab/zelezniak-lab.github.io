@@ -1,6 +1,6 @@
 ---
 name: Sergi Rodà
-image: images/sergi.png
+image: images/sergi.jpg
 role: phd
 # aliases:
 #   - A. Chovie
