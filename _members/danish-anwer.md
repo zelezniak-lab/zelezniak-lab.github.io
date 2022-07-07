@@ -1,7 +1,7 @@
 ---
 name: MD Danish Anwer
 image: images/danish.png
-role: Intern
+role: msc
 # aliases:
 #   - A. Chovie
 #   - A Chovie
