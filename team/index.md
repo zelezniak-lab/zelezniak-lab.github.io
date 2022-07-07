@@ -29,6 +29,12 @@ We are an interdisciplinary team working collaboratively on computational and ex
   include list.html
   data="members"
   component="portrait"
+  filters="role: programmer"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
